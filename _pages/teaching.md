@@ -7,6 +7,7 @@ author_profile: true
 ## Instructor
 
 ### Department of Applied Economics, University of Minnesota
+* APEC3071 Microeconomics for International Development: Spring 2026
 * PhD Math Review: Summer 2025
 
 ## Teaching Assistant
