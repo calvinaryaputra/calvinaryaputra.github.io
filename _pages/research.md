@@ -11,6 +11,6 @@ My research interests are labor economics and family economics. I am particularl
 Work in Progress
 ======
 * "Salary Transparency and Labor Market Outcomes"
-* "Childhood Exposure to Tsunami and Adult Labor Market Outcomes"
-* "The Impact of Body Weight on Wages in the Indonesian Labor Market"
-* "The Effects of Time-use Agency on Unpaid Work” with Amy Damon, Diahhadi Setyonaluri, Usha Adelina Riyanto, and Bimbika Sijapati Basnett."
+* "Tsunami and Labor Market Outcomes"
+* "Teachers in Developing Countries" with Paul Glewwe, Jovin Lasway, and Suzanne Wisniewski
+* "The Effects of Time-use Agency on Unpaid Work” with Amy Damon, Diahhadi Setyonaluri, Usha Adelina Riyanto, and Bimbika Sijapati Basnett
