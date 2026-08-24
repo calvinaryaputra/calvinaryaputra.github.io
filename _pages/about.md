@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a PhD student in Applied Economics at the University of Minnesota. My research interests include labor economics and family economics, with a minor in education and health.
+Welcome! I am a PhD student in Applied Economics at the University of Minnesota. My research interests labor, education, and health economics.
 
 Prior to my PhD, I was a Research Assistant at PROSPERA (Australia-Indonesia Partnership for Economic Development), the International Labor Organization (ILO), the Institute for Economic and Social Research (LPEM FEB UI), and the Demographic Institute (LD FEB UI).
 
 <br>
 
-*Last updated: 19 May 2026*
+*Last updated: 23 August 2026*
