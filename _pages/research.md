@@ -11,18 +11,20 @@ My research interests are labor, education, and health economics. I am particula
 # Working Paper
 
 ## 1. Disaster, Structural Change, and Incomplete Labor Absorption
-A natural disaster can reorganize employment across sectors while leaving the overall employment rate persistently below its counterfactual path. I study the catastrophic 2004 Indian Ocean tsunami using a rich Indonesian household dataset and a difference-in-differences design that compares working-age individuals in affected and unaffected districts. The disaster produces a persistent employment rate shortfall. The agricultural employment rate falls sharply, while the combined rise in industry and service employment offsets less than half of the agricultural loss. The employment rate decline falls overwhelmingly on women. Monthly wages among employees rise in services and fall in agriculture, while hours worked among employed individuals show no statistically significant change. The divergence between employment and wages is consistent with sectorally uneven labor demand and changes in labor supply. These findings show that structural change can coexist with incomplete labor absorption.
-
 *Draft is available upon request*
 
 <br>
 
 # Work in Progress
 
-## 3. Salary Transparency and Labor Market Outcomes
+## 4. Does Devolving Decision-Making Power to Women Improve Forest Restoration? Experimental Evidence from the Himalayas
+with Pooka Choksi, Eric Coleman, Harry Fischer, Forrest Fleischmann, Munib Khanyari, Raahil Madhok, Pushpendra Rana, Deepshikha Sharma, Erin Sills
 
-## 2. Teachers in Developing Countries
+## 3. Conjunctivitis Learning Evaluation and Amelioration of Risk (CLEAR)
+with Nathan Congdon, Paul Glewwe, and LV Prasad Eye Institute
+
+## 2. Access to Education in Developing Countries
+with Qihui Chen, Paul Glewwe, Yafen Liu, and Sarah Liuzzi
+
+## 1. Teachers in Developing Countries
 with Paul Glewwe, Jovin Lasway, and Suzanne Wisniewski
-
-## 1. The Effects of Time-use Agency on Unpaid Work
-with Amy Damon, Diahhadi Setyonaluri, Usha Adelina Riyanto, and Bimbika Sijapati Basnett
