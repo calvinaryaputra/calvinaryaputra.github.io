@@ -11,21 +11,24 @@ My research interests are labor, education, and health economics. I am also inte
 # Working Paper
 
 ## 1. Disaster, Structural Change, and Incomplete Labor Absorption
-Natural disasters destroy productive capacity but can also trigger substantial reconstruction investment. I study the catastrophic 2004 Indian Ocean tsunami using a rich Indonesian household dataset and a difference-in-differences design comparing working-age residents in affected and unaffected coastal districts. The disaster causes a persistent employment rate shortfall in affected districts relative to the control group. The agricultural employment rate falls sharply, while gains in industry and services offset less than half of the decline. This pattern is consistent with distress-driven agricultural contraction and reconstruction-induced expansion in non-agricultural sectors. Women account for nearly all of the employment decline. The gender disparity may reflect differences in human capital and care responsibilities, along with social norms and employer discrimination. Structural change can therefore coexist with incomplete labor absorption. <br>
-[[pdf](https://drive.google.com/file/d/1DthASVqk_iaMXUj_vncwvxQQboqHx_CE/view?usp=drive_link)]
+Natural disasters devastate communities and destroy productive capacity, while also potentially triggering substantial reconstruction investment. I study the catastrophic 2004 Indian Ocean tsunami in a low-income country using a rich Indonesian household dataset and a difference-in-differences design comparing working-age residents in affected and unaffected coastal districts. The disaster causes an employment rate shortfall that persists for a decade in affected districts relative to the control group. The agricultural employment rate falls sharply, while gains in industry and services offset less than half of the decline. This pattern is consistent with distress-driven agricultural contraction and reconstruction-induced expansion in non-agricultural sectors. The negative employment effect is particularly pronounced among women. I discuss differences in human capital and care responsibilities, along with social norms and employer discrimination as potential explanations for this gender disparity. Structural change in employment can therefore coexist with incomplete labor absorption and wider gender employment gaps. <br>
+[[pdf](https://drive.google.com/file/d/1mGLv2ifb1ri5K1q07KKLbWECwGB4LOzx/view?usp=sharing)] <i>First version: September 6, 2026</i>
 
 <br>
 
 # Work in Progress
 
-## 4. Does Devolving Decision-Making Power to Women Improve Forest Restoration? Experimental Evidence from the Himalayas
+## 1. Does Devolving Decision-Making Power to Women Improve Forest Restoration? Experimental Evidence from the Himalayas
 with Pooka Choksi, Eric Coleman, Harry Fischer, Forrest Fleischmann, Munib Khanyari, Raahil Madhok, Pushpendra Rana, Deepshikha Sharma, and Erin Sills
 
-## 3. Conjunctivitis Learning Evaluation and Amelioration of Risk (CLEAR)
-with Nathan Congdon, Paul Glewwe, and LV Prasad Eye Institute
+## 2. SMoLL Steps for Conflict-Affected Children in DR Congo
+with Justice Rising, Tessa Bold, Christelle Dumas, Paul Glewwe, and Alejandra Quintero
 
-## 2. Access to Education in Developing Countries
+## 3. Conjunctivitis Learning Evaluation and Amelioration of Risk (CLEAR)
+with LV Prasad Eye Institute, Nathan Congdon, and Paul Glewwe
+
+## 4. Access to Education in Developing Countries
 with Qihui Chen, Paul Glewwe, Yafen Liu, and Sarah Liuzzi
 
-## 1. Teachers in Developing Countries
+## 5. Teachers in Developing Countries
 with Paul Glewwe, Jovin Lasway, and Suzanne Wisniewski
